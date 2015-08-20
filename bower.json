@@ -1,0 +1,27 @@
+{
+  "name": "mass-input",
+  "title": "Mass Input",
+  "description": "A jQuery plugin with Bootstrap for complex input field",
+  "version": "0.1.0",
+  "homepage": "http://github.com/azhuzhu/mass-input",
+  "author": {
+    "name": "Yuming Zhu",
+    "email": "julian8628@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/azhuzhu/mass-input.git"
+  },
+  "bugs": "https://github.com/azhuzhu/mass-input/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/azhuzhu/mass-input/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*",
+    "bootstrap": "3.3.5",
+  },
+  "keywords": []
+}
