@@ -1,6 +1,24 @@
 {
-  "name": "jquery-plugin",
+  "name": "mass-input",
+  "title": "Mass Input",
+  "description": "A jQuery plugin with Bootstrap for complex input field",
   "version": "0.1.0",
+  "homepage": "http://github.com/azhuzhu/mass-input",
+  "author": {
+    "name": "Yuming Zhu",
+    "email": "julian8628@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/azhuzhu/mass-input.git"
+  },
+  "bugs": "https://github.com/azhuzhu/mass-input/issues",
+  "licenses": "MIT",
+  "dependencies": {
+    "jquery": "*",
+    "bootstrap": "3.3.5"
+  },
+  "keywords": [],
   "engines": {
     "node": ">= 0.8.0"
   },
@@ -15,6 +33,6 @@
     "grunt-contrib-watch": "~0.4.0",
     "grunt-contrib-clean": "~0.4.0",
     "grunt": "~0.4.5",
-    "bower": "~1.4.1",
+    "bower": "~1.4.1"
   }
 }
